@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Retrigger Map Vote"
+	{
+		//{1} = Next Map
+		"es"		"Ciclo a {1} cancelado por umbral de recuento de jugadores. La nueva votación comenzará ahora."
+	}
+	
+	//{1} = Next Map, {2} = Changed map
+	"Not Enough Players"
+	{
+		"es"		"No hay suficientes jugadores para {1}! Siguiente mapa cambiado a {2}!"
+	}
+	"Too Many Players"
+	{
+		"es"		"Demasiados jugadores para {1}! Siguiente mapa cambiado a {2}!"	
+	}
+}
